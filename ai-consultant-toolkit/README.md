@@ -4,8 +4,8 @@ This is an all-in-one resource for executives, consultants, and business teams l
 
 - ✅ No-code workflow blueprints (Zapier, Make, Notion AI, etc.)
 - ✅ Code snippets using OpenAI, Hugging Face, Cohere, etc.
-- ✅ Curated list of 100+ AI tools by use case
-- ✅ Business-ready prompt templates
+- ✅ Curated list of 10+ AI tools by use case
+- ✅ Business-ready prompt template
 - ✅ Images and diagrams for better understanding
 
 ---
